@@ -5,3 +5,4 @@ authors = ["Benjamin Bergman <ben@benbergman.ca>"]
 
 [dependencies]
 chatbot = "0.2.2"
+markov = "*"
